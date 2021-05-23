@@ -1,5 +1,5 @@
 # Desktop-AR-Museum
-
+Click following image to watch the video.<br>
 [![](https://img.youtube.com/vi/EhGiaOX3hNY/0.jpg)](https://www.youtube.com/watch?v=EhGiaOX3hNY)
 
 ## System Requirements
