@@ -2,7 +2,12 @@
 Click following image to watch the video.<br>
 [![](https://img.youtube.com/vi/EhGiaOX3hNY/0.jpg)](https://www.youtube.com/watch?v=EhGiaOX3hNY)
 
-## System Requirements
+## Requirements
+### SDK
+In order to run this application, Holo-SDK have to be installed into your machine.<br>
+https://www.holo-sdk.com/
+<br>
+### System
 CPU:	Core i7 and above<br>
 GPU:	NVIDIA Geforce and above<br>
 RAM:	8 GB<br>
